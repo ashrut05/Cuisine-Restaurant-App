@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Ash Foods</string>
+    <string name="title_activity_maps">Ash Foods</string>
+    <string name="Restaurant">Restaurant</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant_locator">Restaurant_locator</string>
+
+    //activity title strings
+    <string name="title_activity_chinese">Chinese Food</string>
+    <string name="title_activity_indian">Indian Food</string>
+    <string name="title_activity_greek">Greek Food</string>
+    <string name="title_activity_italian">Italian Food</string>
+    <string name="title_activity_mexican">Mexican Food</string>
+
+    //main strings
+    <string name="main_activity_chinese">Chinese Food</string>
+    <string name="main_activity_indian">Indian Food</string>
+    <string name="main_activity_greek">Greek Food</string>
+    <string name="main_activity_italian">Italian Food</string>
+    <string name="main_activity_mexican">Mexican Food</string>
+
+    //Chinese restaurants
+    <string name="title_chineseRestaurant_1">Hong Shing</string>
+    <string name="title_chineseRestaurant_2">Asian Legend</string>
+    <string name="title_chineseRestaurant_3">Swatow Restaurant</string>
+    <string name="title_chineseRestaurant_4">Lee Chen Asian Bistro</string>
+
+    <string name="address_chineseRestaurant_1">195 Dundas St W</string>
+    <string name="address_chineseRestaurant_2">418 Dundas St W</string>
+    <string name="address_chineseRestaurant_3">309 Spadina Ave</string>
+    <string name="address_chineseRestaurant_4">214 King St W</string>
+
+    //Indian restaurants
+    <string name="title_indianRestaurant_1">Little India Restaurant</string>
+    <string name="title_indianRestaurant_2">Bindia Indian Bistro</string>
+    <string name="title_indianRestaurant_3">Aanch</string>
+    <string name="title_indianRestaurant_4">Kothur Indian Cuisine</string>
+
+    <string name="address_indianRestaurant_1">255 Queen St W</string>
+    <string name="address_indianRestaurant_2">16 Market St</string>
+    <string name="address_indianRestaurant_3">259 Wellington St W</string>
+    <string name="address_indianRestaurant_4">649 Yonge St</string>
+
+    //Greek restaurants
+    <string name="title_greekRestaurant_1">VOLOS</string>
+    <string name="title_greekRestaurant_2">Mykonos Mediterranean Grill</string>
+    <string name="title_greekRestaurant_3">Greek in Downtown</string>
+    <string name="title_greekRestaurant_4">Mr. Souvlaki</string>
+
+    <string name="address_greekRestaurant_1">133 Richmond St W></string>
+    <string name="address_greekRestaurant_2">881 Yonge St</string>
+    <string name="address_greekRestaurant_3">222 The Epslanade</string>
+    <string name="address_greekRestaurant_4">123 Queen St W</string>
+
+    //Italian restaurants
+    <string name="title_italianRestaurant_1">Carisma</string>
+    <string name="title_italianRestaurant_2">Donatello Restaurant</string>
+    <string name="title_italianRestaurant_3">Terroni</string>
+    <string name="title_italianRestaurant_4">Gusto 101</string>
+
+    <string name="address_italianRestaurant_1">15 Toronto St</string>
+    <string name="address_italianRestaurant_2">37 Elm St</string>
+    <string name="address_italianRestaurant_3">57 Adelaide St W</string>
+    <string name="address_italianRestaurant_4">101 Portland St</string>
+
+    //Mexican Restaurants
+    <string name="title_mexicanRestaurant_1">Wilbur Mexicana</string>
+    <string name="title_mexicanRestaurant_2">La Carnita</string>
+    <string name="title_mexicanRestaurant_3">Milagro Cantina Mercer</string>
+    <string name="title_mexicanRestaurant_4">Mi Taco Taqueria</string>
+
+    <string name="address_mexicanRestaurant_1">552 King St W</string>
+    <string name="address_mexicanRestaurant_2">106 John St</string>
+    <string name="address_mexicanRestaurant_3">5 Mercer St</string>
+    <string name="address_mexicanRestaurant_4">247 Queen St W</string>
+
+</resources>

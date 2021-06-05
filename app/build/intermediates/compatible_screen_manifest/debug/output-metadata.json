@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.ashrutsharma_comp304sec001_lab05_ex01",
+  "variantName": "debug",
+  "elements": []
+}
